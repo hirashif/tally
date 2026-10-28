@@ -1,6 +1,6 @@
-# ledger
+# tally
 
-[![ci](https://github.com/hirashif/ledger/actions/workflows/ci.yml/badge.svg)](https://github.com/hirashif/ledger/actions/workflows/ci.yml)
+[![ci](https://github.com/hirashif/tally/actions/workflows/ci.yml/badge.svg)](https://github.com/hirashif/tally/actions/workflows/ci.yml)
 
 **Live API docs:** https://ledger-75986543116.us-central1.run.app/swagger-ui/index.html (seeded with a few accounts and transfers, so the endpoints return real data)
 
